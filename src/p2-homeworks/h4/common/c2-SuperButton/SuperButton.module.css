@@ -27,7 +27,7 @@
     transition: .8s cubic-bezier(.165, .84, .44, 1);
 }
 .red:hover {
-    background: rgba(255, 255, 255, 0);
+    background: rgba(164, 157, 157, 0.31);
 }
 .red:hover:before {
     bottom: 0%;
@@ -65,7 +65,7 @@
     transition: .8s cubic-bezier(.165, .84, .44, 1);
 }
 .default:hover {
-    background: rgba(255, 255, 255, 0);
+    background: rgba(164, 157, 157, 0.31);
 }
 .default:hover:before {
     bottom: 0%;

@@ -31,7 +31,7 @@ img{
     z-index: -1;
 }
 .textContainer::after{
-    background-color: white;
+    background-color: rgb(245, 245, 172);
     position: absolute;
     content: '';
     width: 20px;
