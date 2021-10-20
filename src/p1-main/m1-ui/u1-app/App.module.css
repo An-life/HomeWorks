@@ -1,4 +1,8 @@
 .App {
 padding: 40px;
-background-color: rgba(243, 235, 116, 0.8);
+background-color: rgba(254, 255, 129, 0.53);
+}
+.AppTitle{
+    color: #1e5c18;
+    text-align: center;
 }
