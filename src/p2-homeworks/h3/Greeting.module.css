@@ -1,0 +1,23 @@
+.someClass {
+    border: 2px solid #84d40a ;
+    height: 35px;
+    background-color: #c9e597;
+    border-radius: 0px;
+}
+.mistakeMessage{
+    color: #d76112;
+}
+
+.error {
+    height: 35px;
+    border: 2px solid #d76112;
+    background-color: #fcdada;
+}
+.button{
+    background-color: #84d40a;
+    border:2px solid #044c04;
+    border-radius:0px 5px 5px 0px  ;
+    width: 60px;
+    height: 40px;
+
+}
