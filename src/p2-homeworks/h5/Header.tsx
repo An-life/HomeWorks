@@ -1,12 +1,13 @@
 import React from 'react'
+import { NavLink } from 'react-router-dom'
 
 function Header() {
     return (
         <div>
-            // add NavLinks
-
+           <NavLink to={'/pre-junior'}>PreJunior</NavLink>
+            <NavLink to={'/Error404'}>Error404</NavLink>
         </div>
     )
 }
 
-export default Header
+export default Header;
