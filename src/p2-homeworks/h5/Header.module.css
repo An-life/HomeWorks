@@ -1,0 +1,36 @@
+.Nav {
+    display: flex;
+    justify-content: left;
+    transform: translate(-400px);
+    transition-duration: 1000ms;
+}
+
+.Nav:hover {
+    transform: translate(0px);
+    transition-duration: 1000ms;
+}
+
+.Nav a {
+    padding: 20px;
+    color: #aae8aa;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.Nav a:hover {
+    color: #66d328;
+    font-size: larger;
+}
+
+.Nav .activeLink {
+    color: #116c0d;
+    font-size: larger;
+}
+
+.toggle:after {
+    font-size: 2.3em;
+    content: '\00BB';
+    color: #108d20;
+    text-decoration: none;
+}
